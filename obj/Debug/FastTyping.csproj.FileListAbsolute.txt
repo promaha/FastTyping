@@ -1,0 +1,12 @@
+E:\univeristy\mohammed_abo_hadhud\C#_Level_1\FastTyping\bin\Debug\FastTyping.exe.config
+E:\univeristy\mohammed_abo_hadhud\C#_Level_1\FastTyping\bin\Debug\FastTyping.exe
+E:\univeristy\mohammed_abo_hadhud\C#_Level_1\FastTyping\bin\Debug\FastTyping.pdb
+E:\univeristy\mohammed_abo_hadhud\C#_Level_1\FastTyping\obj\Debug\FastTyping.csproj.AssemblyReference.cache
+E:\univeristy\mohammed_abo_hadhud\C#_Level_1\FastTyping\obj\Debug\FastTyping.csproj.SuggestedBindingRedirects.cache
+E:\univeristy\mohammed_abo_hadhud\C#_Level_1\FastTyping\obj\Debug\FastTyping.Form1.resources
+E:\univeristy\mohammed_abo_hadhud\C#_Level_1\FastTyping\obj\Debug\FastTyping.Properties.Resources.resources
+E:\univeristy\mohammed_abo_hadhud\C#_Level_1\FastTyping\obj\Debug\FastTyping.csproj.GenerateResource.cache
+E:\univeristy\mohammed_abo_hadhud\C#_Level_1\FastTyping\obj\Debug\FastTyping.csproj.CoreCompileInputs.cache
+E:\univeristy\mohammed_abo_hadhud\C#_Level_1\FastTyping\obj\Debug\FastTyping.exe
+E:\univeristy\mohammed_abo_hadhud\C#_Level_1\FastTyping\obj\Debug\FastTyping.pdb
+E:\univeristy\mohammed_abo_hadhud\C#_Level_1\FastTyping\obj\Debug\FastTyping.Form2.resources
